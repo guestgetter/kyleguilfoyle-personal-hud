@@ -1,0 +1,351 @@
+{
+  "version": "1.0.0",
+  "schemaVersion": "v1",
+  "metadata": {
+    "layoutVersion": "v1",
+    "components": ["MissionCard", "HealthSection", "LearningSection", "LocationCard", "ContentPipeline"],
+    "priorities": ["business", "health", "learning", "content"],
+    "era": "Business Launch",
+    "focus": "Growth Operating Systems for Restaurants"
+  },
+  "entries": [
+    {
+      "date": "2025-05-25",
+      "business": {
+        "mrr": 23669,
+        "currentFocus": "Growth Operating Systems for restaurants",
+        "microWin": "Successfully implemented Personal OS HUD with real-time data"
+      },
+      "mission": {
+        "title": "Add $1M Revenue Installing Growth Operating Systems",
+        "description": "Install Growth Operating Systems in 100 restaurants by Dec 31, 2026",
+        "progress": 2,
+        "target": 100,
+        "deadline": "2026-12-31"
+      },
+      "location": {
+        "city": "London, ON",
+        "timezone": "EST",
+        "weather": "Sunny, 22°C",
+        "mapImageUrl": "/api/placeholder/300/200"
+      },
+      "health": {
+        "sleepScore": 68,
+        "sleepScoreTarget": 70,
+        "vo2Max": 47,
+        "habitTesting": "Testing new morning routine with Personal OS review"
+      },
+      "learning": {
+        "currentBook": {
+          "title": "The Daily Laws",
+          "author": "Robert Greene",
+          "percentComplete": 45
+        },
+        "courses": [
+          {
+            "title": "The Complete Agentic AI Engineering Course (2025)",
+            "platform": "Udemy",
+            "status": "In Progress",
+            "progress": "15%",
+            "instructor": "Ed Donner, Ligency Team",
+            "rating": "4.8",
+            "students": "19,050",
+            "description": "Master AI Agents in 30 days: build 8 real-world projects with OpenAI Agents SDK, CrewAI, LangGraph, AutoGen and MCP."
+          }
+        ],
+        "podcasts": [
+          {
+            "title": "The Daily AI Show",
+            "status": "Current"
+          }
+        ],
+        "newsletters": [
+          {
+            "title": "Marketing Accountability Council",
+            "platform": "Email",
+            "status": "Subscribed"
+          },
+          {
+            "title": "AI Supremacy",
+            "platform": "Email",
+            "status": "Subscribed"
+          }
+        ],
+        "keyTakeaway": "Building systems that provide real-time visibility creates accountability and momentum.",
+        "latestIdea": "Personal OS could be the foundation for client Growth Operating Systems."
+      },
+      "content": [
+        {
+          "title": "Personal OS Launch Article",
+          "subtitle": "How I built a real-time life dashboard",
+          "status": "Planning",
+          "deadline": "2025-06-01",
+          "distributionChecklist": [
+            { "item": "LinkedIn Article", "done": false },
+            { "item": "Medium Publication", "done": false },
+            { "item": "Twitter Thread", "done": false },
+            { "item": "Website Blog", "done": false }
+          ]
+        },
+        {
+          "title": "The Restaurant Alchemist Manifesto",
+          "subtitle": "Core philosophy and approach",
+          "status": "Published",
+          "deadline": "2025-05-20",
+          "distributionChecklist": [
+            { "item": "LinkedIn Article", "done": true },
+            { "item": "Medium Publication", "done": true },
+            { "item": "Email Newsletter", "done": true },
+            { "item": "Website Blog", "done": true }
+          ]
+        }
+      ],
+      "experiments": {
+        "name": "Personal OS as client demonstration tool",
+        "status": "Starting",
+        "learning": "Transparency builds trust and demonstrates systems thinking"
+      },
+      "eveningAdventure": {
+        "activity": "Celebrating Personal OS launch with evening walk",
+        "rating": 9,
+        "notes": "Feeling energized about the potential of transparent systems."
+      },
+      "nowPlaying": {
+        "title": "Synthwave Mix - Cyberpunk 2077 Vibes",
+        "type": "Spotify Playlist",
+        "mood": "Futuristic & Motivated"
+      },
+      "changelog": [
+        "Launched Personal OS HUD with real-time data integration",
+        "Added interactive map and media cover APIs",
+        "Created troubleshooting guides for development workflow",
+        "Updated mission progress tracking system"
+      ],
+      "photo": {
+        "url": "/images/anna-cello.jpg",
+        "caption": "Anna finished her run of Waitress last weekend! She learned guitar specifically for this show and played both cello AND guitar parts. Watching her master two instruments for one production was absolutely incredible. So proud! 🎭🎸🎻"
+      }
+    },
+    {
+      "date": "2024-01-14",
+      "business": {
+        "mrr": 23669,
+        "currentFocus": "Growth Operating Systems for restaurants",
+        "microWin": "Completed initial client discovery framework"
+      },
+      "mission": {
+        "title": "Add $1M Revenue Installing Growth Operating Systems",
+        "description": "Install Growth Operating Systems in 100 restaurants by Dec 31, 2026",
+        "progress": 2,
+        "target": 100,
+        "deadline": "2026-12-31"
+      },
+      "location": {
+        "city": "London, ON",
+        "timezone": "EST",
+        "weather": "Partly cloudy, -2°C",
+        "mapImageUrl": "/api/placeholder/300/200"
+      },
+      "health": {
+        "sleepScore": 62,
+        "sleepScoreTarget": 70,
+        "vo2Max": 45,
+        "habitTesting": "Testing morning cold exposure routine"
+      },
+      "learning": {
+        "currentBook": {
+          "title": "The Daily Laws",
+          "author": "Robert Greene",
+          "percentComplete": 34
+        },
+        "courses": [
+          {
+            "title": "Complete AI Course 2024",
+            "platform": "Udemy",
+            "status": "In Progress"
+          }
+        ],
+        "podcasts": [
+          {
+            "title": "The Daily AI Show",
+            "status": "Current"
+          }
+        ],
+        "newsletters": [
+          {
+            "title": "Marketing Accountability Council",
+            "platform": "Email",
+            "status": "Subscribed"
+          },
+          {
+            "title": "AI Supremacy",
+            "platform": "Email", 
+            "status": "Subscribed"
+          }
+        ],
+        "keyTakeaway": "Systems thinking requires viewing problems as interconnected patterns rather than isolated events.",
+        "latestIdea": "How can AI automate initial client discovery for Growth Operating Systems?"
+      },
+      "content": [
+        {
+          "title": "The Restaurant Alchemist Manifesto",
+          "subtitle": "Core philosophy and approach",
+          "status": "Drafting",
+          "deadline": "2024-01-20",
+          "distributionChecklist": [
+            { "item": "LinkedIn Article", "done": false },
+            { "item": "Medium Publication", "done": false },
+            { "item": "Email Newsletter", "done": false },
+            { "item": "Website Blog", "done": false }
+          ]
+        },
+        {
+          "title": "The Mission & The Plan",
+          "subtitle": "Strategic roadmap document",
+          "status": "Outlining",
+          "deadline": "2024-01-25",
+          "distributionChecklist": [
+            { "item": "PDF Download", "done": false },
+            { "item": "Landing Page", "done": false },
+            { "item": "Social Media Campaign", "done": false }
+          ]
+        }
+      ],
+      "experiments": {
+        "name": "AI-powered guest preference tracking",
+        "status": "Running",
+        "learning": "70% of guests have 3+ consistent preferences"
+      },
+      "eveningAdventure": {
+        "activity": "Strategizing session for the Restaurant Alchemist Manifesto",
+        "rating": 8,
+        "notes": "Felt a real flow of ideas, outlined the core message."
+      },
+      "nowPlaying": {
+        "title": "Lofi Hip Hop Radio - Beats to Relax/Study to",
+        "type": "YouTube Stream",
+        "mood": "Focused & Creative"
+      },
+      "changelog": [
+        "Updated Personal OS data with new goals and content.",
+        "Refined mission statement for clarity and impact.",
+        "Started outlining 'The Restaurant Alchemist Manifesto'."
+      ],
+      "photo": {
+        "url": "/images/anna-cello.jpg",
+        "caption": "Late night strategy session - mapping out the restaurant revolution"
+      }
+    },
+    {
+      "date": "2024-01-15",
+      "business": {
+        "mrr": 23669,
+        "currentFocus": "Growth Operating Systems for restaurants",
+        "microWin": "Refined target customer persona"
+      },
+      "mission": {
+        "title": "Add $1M Revenue Installing Growth Operating Systems", 
+        "description": "Install Growth Operating Systems in 100 restaurants by Dec 31, 2026",
+        "progress": 2,
+        "target": 100,
+        "deadline": "2026-12-31"
+      },
+      "location": {
+        "city": "London, ON",
+        "timezone": "EST", 
+        "weather": "Snow, -5°C",
+        "mapImageUrl": "/api/placeholder/300/200"
+      },
+      "health": {
+        "sleepScore": 65,
+        "sleepScoreTarget": 70,
+        "vo2Max": 45,
+        "habitTesting": "Testing morning cold exposure routine - Day 2"
+      },
+      "learning": {
+        "currentBook": {
+          "title": "The Daily Laws",
+          "author": "Robert Greene", 
+          "percentComplete": 36
+        },
+        "courses": [
+          {
+            "title": "Complete AI Course 2024",
+            "platform": "Udemy",
+            "status": "In Progress"
+          }
+        ],
+        "podcasts": [
+          {
+            "title": "The Daily AI Show",
+            "status": "Current"
+          }
+        ],
+        "newsletters": [
+          {
+            "title": "Marketing Accountability Council",
+            "platform": "Email",
+            "status": "Subscribed"
+          },
+          {
+            "title": "AI Supremacy", 
+            "platform": "Email",
+            "status": "Subscribed"
+          }
+        ],
+        "keyTakeaway": "Power comes from understanding the patterns that govern human behavior in business contexts.",
+        "latestIdea": "Restaurant success patterns could be codified into predictive algorithms."
+      },
+      "content": [
+        {
+          "title": "The Restaurant Alchemist Manifesto",
+          "subtitle": "Core philosophy and approach",
+          "status": "Drafting",
+          "deadline": "2024-01-20",
+          "distributionChecklist": [
+            { "item": "LinkedIn Article", "done": false },
+            { "item": "Medium Publication", "done": false },
+            { "item": "Email Newsletter", "done": false },
+            { "item": "Website Blog", "done": false }
+          ]
+        },
+        {
+          "title": "The Mission & The Plan",
+          "subtitle": "Strategic roadmap document", 
+          "status": "Outlining",
+          "deadline": "2024-01-25",
+          "distributionChecklist": [
+            { "item": "PDF Download", "done": false },
+            { "item": "Landing Page", "done": false },
+            { "item": "Social Media Campaign", "done": false }
+          ]
+        }
+      ],
+      "experiments": {
+        "name": "AI-powered guest preference tracking",
+        "status": "Running", 
+        "learning": "Initial data shows promising correlation patterns"
+      },
+      "eveningAdventure": {
+        "activity": "Deep work session on manifesto structure",
+        "rating": 9,
+        "notes": "Breakthrough moment - found the core narrative thread."
+      },
+      "nowPlaying": {
+        "title": "Ambient Study Music",
+        "type": "Spotify Playlist",
+        "mood": "Deep Focus"
+      },
+      "changelog": [
+        "Made significant progress on manifesto outline",
+        "Identified key restaurant success patterns",
+        "Refined customer persona based on recent insights"
+      ],
+      "photo": {
+        "url": "/images/anna-cello.jpg",
+        "caption": "Morning strategy session with coffee - the ideas are flowing"
+      }
+    }
+  ],
+  "lastUpdated": "2025-05-25T12:00:00Z"
+} 
