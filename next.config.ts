@@ -2,21 +2,26 @@ import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
   /* config options here */
-  output: 'standalone',
   experimental: {
     optimizePackageImports: ['framer-motion', 'lucide-react'],
   },
   images: {
-    domains: ['localhost'],
-    unoptimized: true, // For static deployment
+    domains: ['localhost', 'kyleguilfoyle.com'],
+    remotePatterns: [
+      {
+        protocol: 'https',
+        hostname: 'kyleguilfoyle.com',
+      },
+    ],
   },
   env: {
     CUSTOM_KEY: process.env.CUSTOM_KEY,
   },
-  // Enable static export for subdomain deployment
-  trailingSlash: true,
-  // Optimize for production
+  // SEO optimizations
   poweredByHeader: false,
+  compress: true,
+  // Enable trailing slash for consistency
+  trailingSlash: true,
 };
 
 export default nextConfig;
