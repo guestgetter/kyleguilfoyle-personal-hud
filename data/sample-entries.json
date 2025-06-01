@@ -18,7 +18,7 @@
       },
       "mission": {
         "title": "Add $1M Revenue Installing Growth Operating Systems",
-        "description": "Install Growth Operating Systems in 100 restaurants by Dec 31, 2026",
+        "description": "Deploy Growth Operating Systems in 100 restaurants by Dec 31, 2026",
         "progress": 2,
         "target": 100,
         "deadline": "2026-12-31"
@@ -135,7 +135,7 @@
       },
       "mission": {
         "title": "Add $1M Revenue Installing Growth Operating Systems",
-        "description": "Install Growth Operating Systems in 100 restaurants by Dec 31, 2026",
+        "description": "Deploy Growth Operating Systems in 100 restaurants by Dec 31, 2026",
         "progress": 2,
         "target": 100,
         "deadline": "2026-12-31"
@@ -245,7 +245,7 @@
       },
       "mission": {
         "title": "Add $1M Revenue Installing Growth Operating Systems", 
-        "description": "Install Growth Operating Systems in 100 restaurants by Dec 31, 2026",
+        "description": "Deploy Growth Operating Systems in 100 restaurants by Dec 31, 2026",
         "progress": 2,
         "target": 100,
         "deadline": "2026-12-31"

@@ -170,6 +170,29 @@ export default function PersonalOS() {
 
       {/* Main Content */}
       <main className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8 relative z-10">
+        {/* Explanatory Message */}
+        <motion.div
+          initial={{ opacity: 0, y: 20 }}
+          animate={{ opacity: 1, y: 0 }}
+          transition={{ duration: 0.6, ease: "easeOut" }}
+          className="mb-8"
+        >
+          <div className="bg-white/90 backdrop-blur-md p-6 rounded-2xl shadow-lg border border-slate-200/50 text-center">
+            <motion.div
+              whileHover={{ scale: 1.05 }}
+              className="inline-block text-4xl mb-4"
+            >
+              🎯
+            </motion.div>
+            <h2 className="text-2xl font-display font-bold text-brand-dark mb-4">Welcome to my Open Dashboard</h2>
+            <p className="text-gray-700 leading-relaxed max-w-4xl mx-auto">
+              I believe that dashboarding and getting all the data that matters in one spot is a hidden unlock for most of us. 
+              We're all drowning in data with no way to make it clear, actionable, and dare I say, <strong>FUN</strong>. 
+              This is about turning life into a game, a quest. Welcome to my Open Dashboard — a work in progress.
+            </p>
+          </div>
+        </motion.div>
+
         <AnimatePresence mode="wait">
           {isLoading ? (
             <motion.div
